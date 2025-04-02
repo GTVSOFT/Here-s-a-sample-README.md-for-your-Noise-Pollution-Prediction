@@ -1,0 +1,5 @@
+traffic_density,industrial_activity,temperature,humidity,wind_speed,time_of_day,noise_level
+120,0.7,30,60,10,9,72
+200,0.9,33,55,12,14,85
+80,0.2,25,70,8,2,60
+...
